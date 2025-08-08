@@ -1,0 +1,13 @@
+Deletion detected for source file with stem: PTT-20250808-WA0007
+Checked at: 20250808-153932
+Original file could have had any extension.
+Searched in source directories (mtime >= cutoff):
+ - /data/data/com.termux/files/home/storage/dcim/Camera
+ - /data/data/com.termux/files/home/storage/pictures/Screenshots
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Sent
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/Private
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/Sent
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents
