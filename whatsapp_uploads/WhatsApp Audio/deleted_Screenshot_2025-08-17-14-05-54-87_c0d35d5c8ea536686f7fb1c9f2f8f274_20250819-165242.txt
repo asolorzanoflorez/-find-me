@@ -1,0 +1,13 @@
+Deletion detected for source file with stem: Screenshot_2025-08-17-14-05-54-87_c0d35d5c8ea536686f7fb1c9f2f8f274
+Checked at: 20250819-165242
+Original file could have had any extension.
+Searched in source directories (mtime >= cutoff):
+ - /data/data/com.termux/files/home/storage/dcim/Camera
+ - /data/data/com.termux/files/home/storage/pictures/Screenshots
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Sent
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/Private
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/Sent
+ - /data/data/com.termux/files/home/storage/shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents
